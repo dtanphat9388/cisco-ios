@@ -1,14 +1,20 @@
 # TOC
-- setup GNS3
+- Free course
+- setup simulator
+  - GNS3
 - download ios images -> add to gns3
+- config GNS3
+
+# Courses
+- Free CCNA: https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
+  
+# Setup simulator Step by step
 
 
-# Step by step
-
-## Ubuntu
-
-### Setup GNS3
+## Setup GNS3
  <!-- https://docs.gns3.com/docs/getting-started/installation/linux/ -->
+
+### Ubuntu
 ```sh
 sudo add-apt-repository ppa:gns3/ppa
 sudo apt update -y
